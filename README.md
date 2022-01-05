@@ -27,6 +27,7 @@
 * [Aether3D](https://github.com/bioglaze/aether3d) - Vulkan, D3D12, Metal 기반의 게임 엔진
 * [Cell](https://github.com/JoeyDeVries/Cell) - OpenGL 기반의 게임 엔진
 * [Slug](http://sluglibrary.com) - GPU를 지원하는 폰트 엔진
+* [Ozz](https://github.com/guillaumeblanc/ozz-animation) - Skeletal 에니메이션 엔진
 
 ## 강의
 
